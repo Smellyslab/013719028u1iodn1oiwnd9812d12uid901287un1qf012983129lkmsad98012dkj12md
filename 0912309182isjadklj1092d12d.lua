@@ -2,7 +2,7 @@
 -- AUTO-ATTACH SYSTEM (Infinite Yield Style)
 ---------------------------------------------------------------------
 -- IMPORTANT: Save this script URL for auto-execute in your executor
-local SCRIPT_URL = 'YOUR_SCRIPT_URL_HERE' -- Replace with your actual script URL
+local SCRIPT_URL = 'https://raw.githubusercontent.com/Smellyslab/013719028u1iodn1oiwnd9812d12uid901287un1qf012983129lkmsad98012dkj12md/refs/heads/main/0912309182isjadklj1092d12d.lua' -- Replace with your actual script URL
 
 -- Prevent multiple instances from running
 if getgenv().INSTAKILL_LOADED then
